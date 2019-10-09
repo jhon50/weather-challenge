@@ -4,7 +4,7 @@
 
 Você recebeu a tarefa de desenvolver algumas features para um site de previsão do tempo.
 
-O site pega a previsão de uma API pública e exibe na tela. Hoje o MVP só mostra a previsão de uma cidade fixa, São Paulo, e em Fahrenheit.
+O site pega a parevisão de uma API pública e exibe na tela. Hoje o MVP só mostra a previsão de uma cidade fixa, São Paulo, e em Fahrenheit.
 
 A Análise de Negócios mapeou as seguintes histórias em ordem de prioridade:
 
